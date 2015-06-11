@@ -1,0 +1,31 @@
+{
+    "username": "pavan4develop@trifecta.com", 
+    "environment": "production", 
+    "project_name": "surveyForce", 
+    "workspace": "F:\\firstRepository", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "RGC385H0PY17F0345E28N0FO40BI7VH5", 
+    "metadata_container": "1dc28000000A0fsAAC", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomApplication", 
+        "CustomLabels", 
+        "CustomObject", 
+        "CustomTab", 
+        "Dashboard", 
+        "EmailTemplate", 
+        "Layout", 
+        "PermissionSet", 
+        "QuickAction", 
+        "RemoteSiteSetting", 
+        "Report", 
+        "ReportType", 
+        "RecordType", 
+        "StaticResource", 
+        "profile"
+    ]
+}
